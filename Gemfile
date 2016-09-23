@@ -22,7 +22,7 @@
 
 source 'https://rubygems.org'
 
-source 'https://rubygems.org'
+gem 'rack', '1.6.4'
 gem 'tzinfo', '1.2.2'
 gem 'concurrent-ruby', '1.0.2'
 gem 'i18n', '0.7.0'
