@@ -22,6 +22,12 @@
 
 source 'https://rubygems.org'
 
+source 'https://rubygems.org'
+gem 'tzinfo', '1.2.2'
+gem 'concurrent-ruby', '1.0.2'
+gem 'i18n', '0.7.0'
+gem 'minitest', '5.9.0'
+gem 'activesupport', '4.2.7.1'
 gem 'rubyzip', '>= 1.0.0'
 gem 'zip-zip'
 gem 'simple_enum'
